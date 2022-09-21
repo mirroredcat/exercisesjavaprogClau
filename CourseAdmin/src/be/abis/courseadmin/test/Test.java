@@ -25,6 +25,8 @@ public class Test {
             if(p!=null){System.out.println(p);}
         }
 
+        Arrays(people).stream().forEach();
+
         people[2].attendCourse(c1);
         people[2].teachCourse(c1);
 
