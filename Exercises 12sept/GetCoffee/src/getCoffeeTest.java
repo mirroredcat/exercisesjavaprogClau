@@ -1,4 +1,4 @@
-public class Test {
+public class getCoffeeTest {
 
     public static void main(String[] args) {
         Instructor i1 = new Instructor("Mr. McHill", "Java");
